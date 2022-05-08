@@ -1,0 +1,66 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Miniproject_GraphFromNewsData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Miniproject_GraphFromNewsData_jar</output-path>
+    <root id="archive" name="Miniproject_GraphFromNewsData.jar">
+      <element id="module-output" name="Miniproject_GraphFromNewsData" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/dec-0.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/xalan-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/htmlunit-2.60.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/httpcore-4.4.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/httpmime-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/xml-apis-1.4.01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-text-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/salvation2-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/serializer-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-io-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-net-3.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/xercesImpl-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/neko-htmlunit-2.60.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/htmlunit-core-js-2.60.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/htmlunit-cssparser-1.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/jetty-io-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/jetty-http-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/jetty-util-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/jetty-client-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/websocket-api-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/websocket-client-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/htmlunit-2.60.0/lib/websocket-common-9.4.45.v20220203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/hppc-0.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jcommander-1.78.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/grizzly-http-2.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/opennlp-uima-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jackson-core-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/opennlp-tools-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.inject-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-client-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-common-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-server-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/morfologik-fsa-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/morfologik-tools-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/grizzly-framework-2.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jackson-databind-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.ws.rs-api-2.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-media-jaxb-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/grizzly-http-server-2.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/morfologik-stemming-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jackson-annotations-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.xml.bind-api-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/osgi-resource-locator-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.activation-api-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.annotation-api-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jakarta.validation-api-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/opennlp-brat-annotator-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/morfologik-fsa-builders-2.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-entity-filtering-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/opennlp-morfologik-addon-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-media-json-jackson-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jersey-container-grizzly2-http-2.30.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-opennlp-1.9.4/lib/jackson-module-jaxb-annotations-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JavaFXSmartGraph-0.9.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

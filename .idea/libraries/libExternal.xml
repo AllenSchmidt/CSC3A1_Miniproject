@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libExternal">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/apache-opennlp-1.9.4/docs/apidocs/opennlp-brat-annotator" />
+      <root url="file://$PROJECT_DIR$/lib/apache-opennlp-1.9.4/docs/apidocs/opennlp-morfologik-addon" />
+      <root url="file://$PROJECT_DIR$/lib/apache-opennlp-1.9.4/docs/apidocs/opennlp-tools" />
+      <root url="file://$PROJECT_DIR$/lib/apache-opennlp-1.9.4/docs/apidocs/opennlp-uima" />
+      <root url="file://$PROJECT_DIR$/lib/htmlunit-2.60.0/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
